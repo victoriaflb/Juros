@@ -1,3 +1,3 @@
 # Aplicação de Juros
 
-Exercicío JS puro
+Exercício JS puro
